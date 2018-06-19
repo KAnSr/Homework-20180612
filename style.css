@@ -1,0 +1,20 @@
+html {
+	margin: 0 15%;
+}
+
+h1 {
+	text-transform: uppercase;
+}
+
+body {
+	background: #ffd0d0;
+}
+
+
+.centered {
+	text-align: center;
+}
+
+.padding-text p, .padding-text a {
+	padding-left: 40px;
+}
